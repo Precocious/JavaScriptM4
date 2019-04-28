@@ -10,3 +10,6 @@ function btnSucc() {
     alert('SUCCESS');
 }
 
+// Level 1 Proccess - 2.
+// https://jsonplaceholder.typicode.com/todos
+

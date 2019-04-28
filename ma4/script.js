@@ -1,3 +1,4 @@
+// Level 1 Proccess - 1.
 var btn = document.getElementById('btn_success');
 
 btn.addEventListener('click', function(e){
@@ -8,3 +9,4 @@ btn.addEventListener('click', function(e){
 function btnSucc() {
     alert('SUCCESS');
 }
+
